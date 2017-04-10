@@ -1,18 +1,18 @@
 @font-face {
   font-family: "ss-bold";
-  src: url(/fonts/open_sans/opensans-bold-webfont.woff) format('woff');
+  src: url(../fonts/open_sans/opensans-bold-webfont.woff) format('woff');
 }
 @font-face {
   font-family: "ss-regular";
-  src: url(/fonts/open_sans/opensans-regular-webfont.woff) format('woff');
+  src: url(../fonts/open_sans/opensans-regular-webfont.woff) format('woff');
 }
 @font-face {
   font-family: "ss-semibold";
-  src: url(/fonts/open_sans/opensans-semibold-webfont.woff) format('woff');
+  src: url(../fonts/open_sans/opensans-semibold-webfont.woff) format('woff');
 }
 @font-face {
   font-family: "ss-light";
-  src: url(/fonts/open_sans/opensans-light-webfont.woff) format('woff');
+  src: url(../fonts/open_sans/opensans-light-webfont.woff) format('woff');
 }
 /* line 5, ../sass/global.scss */
 html {
